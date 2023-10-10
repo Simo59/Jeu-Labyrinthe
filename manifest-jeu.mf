@@ -1,0 +1,2 @@
+Main-Class: game.ClassicalGame
+Class-Path: jeu.jar /l-2-s-4-projet-2022-g-6/classes
